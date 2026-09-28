@@ -11,3 +11,4 @@
 
 # Unzip dataset
 !unzip dogsvscats_dataset/dogsvscats.zip -d dogsvscats_dataset
+# !kaggle datasets download -d msambare/fer2013
