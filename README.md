@@ -17,3 +17,4 @@
 !kaggle datasets download -d asaniczka/mammals-image-classification-dataset-45-animals -p mammals_dataset  
 # Unzip dataset
 !unzip mammals_dataset/mammals-image-classification-dataset-45-animals.zip -d mammals_dataset  
+# 'https://media.roboflow.com/notebooks/examples/dog.jpeg'
